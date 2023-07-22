@@ -1,3 +1,4 @@
+nvd-api==0.9.1
 pyOpenSSL
 pytest
 requests==2.28
